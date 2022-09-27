@@ -2,8 +2,7 @@
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/voidwalker77)
 
-![voidwalker77's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidwalker77&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidwalker77&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![voidwalker77's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidwalker77&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidwalker77&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias
